@@ -4,6 +4,12 @@ EasySet คือโปรแกรมสำหรับตั้งค่า Wi
 
 โปรแกรมเป็นไฟล์ `EasySet.exe` ไฟล์เดียว ไม่ต้องติดตั้ง หน้าต่างใช้ปุ่มและช่องติ๊กมาตรฐานของ Windows จึงใช้ปุ่ม Tab กับ NVDA ได้ทุกส่วน
 
+## ดาวน์โหลด
+
+ดาวน์โหลดรุ่นล่าสุด: [EasySet.exe](https://github.com/oabi-siriwat/EasySet/releases/latest/download/EasySet.exe)
+
+link นี้ได้รุ่นล่าสุดเสมอ ไฟล์ตรวจสอบ (checksum) และคู่มือแบบ txt อยู่ในหน้า [รุ่นล่าสุด](https://github.com/oabi-siriwat/EasySet/releases/latest)
+
 ## ก่อนใช้งาน
 
 - ใช้ได้กับ Windows 10 และ Windows 11

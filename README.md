@@ -8,7 +8,9 @@ EasySet is one small `.exe` file. It needs no installing, and all its settings a
 
 ## Download
 
-Download `EasySet.exe` from the latest release on the [Releases](../../releases) page.
+Download the latest version: [EasySet.exe](https://github.com/oabi-siriwat/EasySet/releases/latest/download/EasySet.exe)
+
+This link always gives the newest version. The checksum and the text manuals are on the [latest release](https://github.com/oabi-siriwat/EasySet/releases/latest) page.
 
 The file is not signed. Windows SmartScreen may warn that it does not know the publisher. Choose More info, then Run anyway.
 
