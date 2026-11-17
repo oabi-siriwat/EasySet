@@ -6,9 +6,9 @@ EasySet คือโปรแกรมสำหรับตั้งค่า Wi
 
 ## ดาวน์โหลด
 
-ดาวน์โหลดรุ่นล่าสุด: [EasySet.exe](https://github.com/oabi-siriwat/EasySet/releases/latest/download/EasySet.exe)
+ดาวน์โหลดรุ่นล่าสุด: [EasySet.zip](https://github.com/oabi-siriwat/EasySet/releases/latest/download/EasySet.zip)
 
-link นี้ได้รุ่นล่าสุดเสมอ ไฟล์ตรวจสอบ (checksum) และคู่มือแบบ txt อยู่ในหน้า [รุ่นล่าสุด](https://github.com/oabi-siriwat/EasySet/releases/latest)
+link นี้ได้รุ่นล่าสุดเสมอ แตกไฟล์ zip ก่อน ข้างในมีโฟลเดอร์ EasySet ที่มี EasySet.exe และคู่มือภาษาไทยกับอังกฤษ ให้เปิด EasySet.exe จากโฟลเดอร์ที่แตกออกมา ไม่ใช่เปิดจากในไฟล์ zip ไฟล์ตรวจสอบ (checksum) อยู่ในหน้า [รุ่นล่าสุด](https://github.com/oabi-siriwat/EasySet/releases/latest)
 
 ## ก่อนใช้งาน
 

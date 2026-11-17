@@ -8,9 +8,9 @@ EasySet is one small `.exe` file. It needs no installing, and all its settings a
 
 ## Download
 
-Download the latest version: [EasySet.exe](https://github.com/oabi-siriwat/EasySet/releases/latest/download/EasySet.exe)
+Download the latest version: [EasySet.zip](https://github.com/oabi-siriwat/EasySet/releases/latest/download/EasySet.zip)
 
-This link always gives the newest version. The checksum and the text manuals are on the [latest release](https://github.com/oabi-siriwat/EasySet/releases/latest) page.
+This link always gives the newest version. Extract the zip: it holds an EasySet folder with `EasySet.exe` and the English and Thai manuals. Open `EasySet.exe` from that folder, not from inside the zip. The [latest release](https://github.com/oabi-siriwat/EasySet/releases/latest) page also has the checksum.
 
 The file is not signed. Windows SmartScreen may warn that it does not know the publisher. Choose More info, then Run anyway.
 
