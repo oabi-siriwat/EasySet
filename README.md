@@ -131,7 +131,7 @@ When the Backup check box (Alt+B) is ticked, Apply first saves the settings it w
 Undo last change (Alt+U) is shown only when there is a change to undo. It asks first, with No as the default, then puts the earlier settings back. It asks you to restart only when it puts back the language for non-Unicode programs. Choose it again to go one more change back.
 
 - Put the program in a folder you can write to, such as Documents or a USB flash drive, not Program Files.
-- A .oabi file is encrypted, so only EasySet can open it; zip programs such as 7-Zip cannot.
+- Only EasySet can open a .oabi file.
 - An undone backup stays as a file ending in _undone.oabi. Do not rename or move the .oabi files, or Undo cannot find them.
 - Undo puts back each saved part of the settings as a whole. Other settings in the same part that you changed after that go back too.
 
